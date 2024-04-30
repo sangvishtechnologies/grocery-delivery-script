@@ -12,6 +12,9 @@ In this post, we'll teach you how to accomplish exactly that, utilizing a unique
 # What is a Grocery Delivery Script?
 A [Grocery Delivery Script](https://sangvish.com/grocery-delivery-script/) is a software solution that assists grocery delivery businesses to run successfully. It is the foundation for platforms linking consumers with nearby grocery stores or specialized delivery services, allowing users to browse, select, and order groceries online from the comfort of their homes.
 Developing a profitable delivery app with a grocery delivery script requires a few steps. Here is a step-by-step tutorial to assist you get started.
+
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“grocerydeliveryscript.png" src="https://github.com/sangvishtechnologies/vrbo-clone/blob/main/images/vrbo-clone-app.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div> 
+
 ### Market Research:
 
 Before starting development, undertake extensive market research to identify the requirements for grocery delivery services in your target location. Examine your competition's products, services, and pricing policies to find gaps and possibilities in the market.
@@ -62,7 +65,10 @@ Providing a simple and efficient shopping experience may increase consumer happi
 ### Adaptability:
 
 Grocery delivery scripts are frequently customizable to meet the unique demands and branding of particular businesses, allowing for greater design and operational flexibility.
-## Conclusion:
+
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“grocerydeliveryscript.png" src="https://github.com/sangvishtechnologies/grocery-delivery-script/blob/main/images/grocery-delivery.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div> 
+
+# Conclusion:
 Finally, using a [Grocery Delivery Script](https://sangvish.com/grocery-delivery-script/) to develop a profitable delivery app has enormous promise in the fast-growing sector of online grocery shopping. By using a ready-made script, entrepreneurs may speed up the app development process, minimize costs, and launch their platform swiftly to make a profit from the increasing demand for convenient grocery delivery services.
 
 As the need for online grocery shopping keeps increasing, developing an attractive delivery app by utilizing a [Grocery Delivery Script](https://sangvish.com/grocery-delivery-script/). It presents an exciting chance for business owners to delve into this prospering market, generate revenue, and create a successful presence in the highly competitive environment of the online grocery marketplace.
